@@ -1,0 +1,1 @@
+Implement API integration: write functions to fetch current weather and forecast data

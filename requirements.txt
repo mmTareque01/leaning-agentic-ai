@@ -18,3 +18,8 @@ langchain_groq
 google-generativeai
 matplotlib
 networkx
+transformers
+torch
+groq
+
+accelerate
